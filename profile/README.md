@@ -1,4 +1,4 @@
-##Welcome to RemoStart!
+## Welcome to RemoStart!
 
 RemoStart is a hiring platform that connects top talent with great companies. Our goal is to make the job search process as seamless and stress-free as possible, while also helping businesses find the best candidates for their open positions.
 
