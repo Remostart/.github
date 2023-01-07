@@ -14,6 +14,6 @@ Here are some of the features you can expect to find on RemoStart:
 
 We hope you find RemoStart helpful in your job search. If you have any feedback or suggestions for how we can improve the platform, please don't hesitate to reach out to us info@remostarts.com
 
-![Logo](https://remostarts.com/assets/logo/Color-REMO.png)
+![Logo](https://remostarts.com/assets/logo/Remo-White.png)
 
 
